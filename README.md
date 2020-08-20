@@ -14,3 +14,4 @@ These are:
 - How to Clean Data with Python
 - Learn Web Scraping with Beautiful Soup
 - Learn Data Analysis with Pandas
+- Learn SQL
